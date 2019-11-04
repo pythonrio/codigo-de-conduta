@@ -1,6 +1,6 @@
 # Código de Conduta
 
-A comunidade PythOnRio ẽ uma comunidade com respeito e livre de assédio para todos. Nós não toleramos assédio ou bullyging de nenhum de qualquer membro da comunidade de qualquer maneira. Isso não se estende somente às pessoas que frequentam os eventos organizados pela comunidade PythOnRio, mas também a qualquer pessoa que escolha se envolver nos grupos da comunidade PythOnRio.
+A comunidade PythOnRio é uma comunidade com respeito e livre de assédio para todos. Nós não toleramos assédio ou bullying de para com nenhum membro da comunidade de qualquer maneira. Isso não se estende somente às pessoas que frequentam os eventos organizados pela comunidade PythOnRio, mas também a qualquer pessoa que escolha se envolver nos grupos da comunidade PythOnRio.
 
 Assédio inclui comentários verbais/eletrônicos ofensivos relacionados a características ou escolhas pessoais, imagens ou comentários sexuais em espaços públicos ou online, intimidação deliberada, bullying, perseguição, fotografia ou gravação não permitida, interrupção constante de palestras, bate-papos do Telegram, reuniões eletrônicas ou presenciais ou outros eventos, contato físico inadequado ou atenção sexual indesejada. Os participantes solicitados a impedir qualquer comportamento de assédio ou intimidação devem cumprir imediatamente.
 

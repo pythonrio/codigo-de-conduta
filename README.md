@@ -8,4 +8,4 @@ Se um participante se envolver em um comportamento de assédio, representantes d
 
 Se alguma pessoa estiver sendo assediada, notar que outra pessoa está sendo assediada ou tenha alguma outra dúvida sobre o assunto, aja para intervir e/ou peça ajuda a qualquer membro da comunidade PythOnRio, administradores de bate-papo do Telegram, administradores de sites ou organizadores/representantes de qualquer evento presencial do PythOnRio.
 
-Este Código de Conduta foi adaptado da (Pyladies Brasil)[https://github.com/pyladies-brazil/coc], que por sua vez foi adaptado da [Fundação Plone](http://plone.org/foundation/materials/foundation-resolutions/code-of-conduct) e está licenciado sob uma [licença](https://creativecommons.org/licenses/by-sa/3.0/) Creative Commons Attribution-Share Alike 3.0 Unported.
+Este Código de Conduta foi adaptado da [Pyladies Brasil](https://github.com/pyladies-brazil/coc), que por sua vez foi adaptado da [Fundação Plone](http://plone.org/foundation/materials/foundation-resolutions/code-of-conduct) e está licenciado sob uma [licença](https://creativecommons.org/licenses/by-sa/3.0/) Creative Commons Attribution-Share Alike 3.0 Unported.
